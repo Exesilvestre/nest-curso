@@ -3,7 +3,7 @@
 /node_modules
 
 /mongo
-
+node-_modules
 .env
 # Logs
 logs
